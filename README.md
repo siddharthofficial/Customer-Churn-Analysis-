@@ -85,4 +85,10 @@ Evaluated using:
 - Matplotlib
 - Jupyter Notebook
 
+---
+
+##  Author
+**Siddharth Jain**  
+Aspiring Data Analyst | Passionate about Business + Data  
+[LinkedIn](https://www.linkedin.com/in/siddharth-jain-979a35253/)
 
