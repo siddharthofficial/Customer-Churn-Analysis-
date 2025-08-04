@@ -85,9 +85,4 @@ Evaluated using:
 - Matplotlib
 - Jupyter Notebook
 
-
-
-
-
-pip install -r requirements.txt
-jupyter notebook notebook/Customer_Churn_Analysis.ipynb
+nb
