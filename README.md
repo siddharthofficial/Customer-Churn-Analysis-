@@ -41,6 +41,8 @@ This project predicts whether a telecom customer is likely to churn using variou
 | K-Nearest Neighbors    | Distance-based model, required scaling         |
 | SVM (RBF Kernel)       | Non-linear model, tuned with `C` and `gamma`  |
 
+🔧 All models were hyperparameter tuned using RandomizedSearchCV.
+
 ---
 
 ## 📈 Performance Metrics
@@ -73,7 +75,7 @@ Evaluated using:
 
 ## ✅ Best Performing Model
 
-**XGBoost** emerged as the best model after resampling, balancing **accuracy**, **recall**, and **F1-score**.
+**XGBoost** emerged as the best model after resampling and hyperparameter tuning, balancing **accuracy**, **recall**, and **F1-score**.
 
 ## 🛠️ Technologies Used
 
